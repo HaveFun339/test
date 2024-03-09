@@ -5,3 +5,14 @@
 body{
     background: red;
 }
+.test1{
+    display: flex;
+    flex: start;
+}
+.test2{
+    display: flex;
+    flex: start;
+}
+h1{
+    color: green;
+}
